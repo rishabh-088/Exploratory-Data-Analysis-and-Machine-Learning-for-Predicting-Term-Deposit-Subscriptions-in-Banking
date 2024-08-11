@@ -1,0 +1,2 @@
+# Exploratory-Data-Analysis-and-Machine-Learning-for-Predicting-Term-Deposit-Subscriptions-in-Banking
+This project uses extensive EDA and machine learning to predict term deposit subscriptions at a Portuguese bank. Analyzing customer data with models like KNN, SVC, RFC, GBC, and DNN, the Deep Neural Network performed best. Class balancing improved recall and reduced overfitting, aiding targeted marketing.
